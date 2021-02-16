@@ -26,7 +26,9 @@ Took part in the Rolling Scopes 2018-Q1, 2020-Q3
 [Github](https://github.com/isivano "Go to Github")
 
 ## **Education**
-Graduated in 2016 from the Francisk Skorina Gomel State University with the Software Engineer qualification in the Information Technology Software specialty.
+Graduated in 2016 from the Francisk Skorina Gomel State University 
+with the Software Engineer qualification 
+in the Information Technology Software specialty.
 
 ## **English skills**
 Completed the Pre-Intermediate (A2) course.
