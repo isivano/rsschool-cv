@@ -12,7 +12,13 @@ As an engineer I always ready for different challenges and do my best for solvin
 HTML, CSS, JavaScript (basic skills).
 
 ## **Latest code examples**
-
+```
+document.querySelector("#horizPhoneButton").addEventListener('click',function(){
+    let screen = document.querySelector("#horizPhoneScreen");
+    if (screen.classList.value.indexOf('turnOff')<0) screen.classList.add('turnOff');
+    else screen.classList.remove('turnOff');
+});
+```
 
 ## **Experience** 
 Took part in the Rolling Scopes 2018-Q1, 2020-Q3
