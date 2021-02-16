@@ -1,8 +1,8 @@
 # **Ivan Ivanov CV** 
 
 ### **Contact information** 
-E-mail: ivanov-i.s@mail.ru
-Phone: +375293843494
+- E-mail: ivanov-i.s@mail.ru
+- Phone: +375293843494
 
 ### **Summary** 
 The main goal is get a new interested experience, knowledge and professional skills.
@@ -21,9 +21,9 @@ document.querySelector("#horizPhoneButton").addEventListener('click',function(){
 ```
 
 ## **Experience** 
-Took part in the Rolling Scopes 2018-Q1, 2020-Q3
-[Codewars](https://www.codewars.com/users/isivano/completed "Go to Codewars")
-[Github](https://github.com/isivano "Go to Github")
+- Took part in the Rolling Scopes 2018-Q1, 2020-Q3
+- [Codewars](https://www.codewars.com/users/isivano/completed "Go to Codewars")
+- [Github](https://github.com/isivano "Go to Github")
 
 ## **Education**
 Graduated in 2016 from the Francisk Skorina Gomel State University 
