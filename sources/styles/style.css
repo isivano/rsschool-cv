@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+body {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1,
+h2 {
+  margin-top: 20px;
+}
+
+.photo {
+  float: right;
+  margin-top: 20px;
+}
+
+.code-example {
+  padding: 10px;
+  background-color: #dadada;
+}
+
+article {
+  display: inline-block;
+  width: 610px;
+}
