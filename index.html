@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./sources/styles/style.css">
     <title>Curriculum Vitae</title>
 </head>
 <body>
@@ -29,12 +30,15 @@
     </article>
     <article>
         <h2>Latest code examples</h2>
-        <code>document.querySelector("#horizPhoneButton").addEventListener('click',function(){ <br>
-            &nbsp &nbsp let screen = document.querySelector("#horizPhoneScreen");<br>
-            &nbsp &nbspif (screen.classList.value.indexOf('turnOff')<0) screen.classList.add('turnOff');<br>
-            &nbsp&nbsp else screen.classList.remove('turnOff');<br>
-        })
-        </code>
+        <div class="code-example">
+            <code>document.querySelector("#horizPhoneButton").addEventListener('click',function(){ <br>
+                &nbsp&nbsp let screen = document.querySelector("#horizPhoneScreen"); <br>
+                &nbsp&nbsp if (screen.classList.value.indexOf('turnOff')<0) <br>
+                &nbsp&nbsp&nbsp&nbsp screen.classList.add('turnOff'); <br>
+                &nbsp&nbsp else screen.classList.remove('turnOff'); <br>
+                })
+            </code>
+        </div>
     </article>
     <article>
         <h2>Experience</h2>
@@ -44,7 +48,9 @@
     </article>
     <article>
         <h2>Education</h2>
-        <p>Graduated in 2016 from the Francisk Skorina Gomel State University with the Software Engineer qualification in the Information Technology Software specialty.</p>
+        <p>Graduated in 2016 from the Francisk Skorina Gomel State University with the Software Engineer qualification 
+            in the Information Technology Software specialty.
+        </p>
     </article>
     <article>
         <h2>English skills</h2>
