@@ -24,3 +24,11 @@ document.querySelector("#horizPhoneButton").addEventListener('click',function(){
 
 - [Codewars](https://www.codewars.com/users/isivano/completed "Go to Codewars")
 - [Github](https://github.com/isivano "Go to Github")
+
+## **Education**
+Graduated in 2016 from the Francisk Skorina Gomel State University 
+with the Software Engineer qualification 
+in the Information Technology Software specialty.
+
+## **English skills**
+Completed the Pre-Intermediate (A2) course.
