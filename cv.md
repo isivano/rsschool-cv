@@ -10,3 +10,17 @@ As an engineer I always ready for different challenges and do my best for solvin
 
 ## **Skills**
 HTML, CSS, JavaScript (basic skills).
+
+## **Latest code examples**
+```
+document.querySelector("#horizPhoneButton").addEventListener('click',function(){
+    let screen = document.querySelector("#horizPhoneScreen");
+    if (screen.classList.value.indexOf('turnOff')<0) screen.classList.add('turnOff');
+    else screen.classList.remove('turnOff');
+});
+```
+
+## **Experience** 
+
+- [Codewars](https://www.codewars.com/users/isivano/completed "Go to Codewars")
+- [Github](https://github.com/isivano "Go to Github")
