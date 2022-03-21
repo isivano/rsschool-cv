@@ -1,0 +1,151 @@
+:root {
+  --element-background-color: #2796df;
+  --title-text-color: #fff;
+}
+
+* {
+  margin: 0;
+}
+
+a {
+  color:#000;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  float: left;
+  margin: 140px 20px 0 0;
+  text-transform: uppercase;
+  color: var(--element-background-color, blue);
+}
+
+.any-title {
+  display: inline-block;
+  color: var(--title-text-color, white);
+  vertical-align: top;
+}
+
+.section-title {
+  width: 150px;
+  margin: 0 60px 0 0;
+  padding: 5px;
+}
+
+.about-me {
+  position: relative;
+  display: inline-block;
+  min-height: 170px;
+  background-color: var(--element-background-color, blue);
+  padding: 0 100px;
+  width: 476px;
+}
+
+.about-me-title {
+  width: 300px;
+  margin-top: 25px;
+}
+
+.about-me-text {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 10px 0;
+  width: 300px;
+  color: var(--title-text-color);
+}
+
+.section-case {
+  background-color: var(--element-background-color, blue);
+  margin: 20px 0;
+}
+
+.text-field {
+  display: inline-block;
+  min-height: 66px;
+  width: 642px;
+  padding: 0 10px;
+  background-color: #fff;
+}
+
+.photo {
+  margin: 10px 0;
+  width: 150px;
+  border-radius: 100px;
+  float: right;
+}
+
+.code-example {
+  display: inline-block;
+  padding: 10px;
+  background-color: #dadada;
+  border-left: 10px solid #fff;
+  border-right: 10px solid #fff;
+}
+
+mark {
+  background-color: #000;
+  color: var(--title-text-color, white);;
+}
+
+.footer-case{
+  margin: 20px 0 0 0;
+  padding: 5px;
+  text-align: right;
+  background-color: var(--element-background-color, blue);
+}
+
+.rsschool-icon{
+  width: 50px;
+  margin: 0 3px 0 0;
+}
+
+.rsschool-link{
+  float: left;
+  margin: 6px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.footer-text{
+  display: inline;
+  position: relative;
+  top: -5px;
+  margin: 7px 7px 0 3px;
+  color: var(--title-text-color, white);
+  font-weight: 700;
+  user-select: none;
+}
+
+.footer-contacts{
+  display: inline-block;
+  padding: 0;
+}
+
+.footer-contacts li{
+  display: inline;
+}
+
+.social-icon{
+  width: 20px;
+  margin: 6px 6px 0 0;
+  border-radius: 10px;
+}
+
+.social-link :hover{
+  box-shadow:  1px 1px 1pt  rgb(45, 48, 58);
+}
+
+.social-link :active{
+  opacity: 0.5;
+  box-shadow: none;
+}
